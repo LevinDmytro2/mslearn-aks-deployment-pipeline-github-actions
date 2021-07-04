@@ -1,0 +1,7 @@
+image:
+  repository: !IMAGE!
+  name: contoso-website
+  tag: latest
+
+dns:
+  name: !DNS!
