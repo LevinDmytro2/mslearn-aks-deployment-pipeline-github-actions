@@ -1,7 +1,7 @@
 image:
-  repository: !IMAGE!
+  registry: ContosoContainerRegistry11781
   name: contoso-website
   tag: latest
 
 dns:
-  name: !DNS!
+  name: 13dec779bb604c37ade1.eastus.aksapp.io
